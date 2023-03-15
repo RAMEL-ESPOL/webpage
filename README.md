@@ -11,15 +11,15 @@ Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+###History
 
-Images are in '/img/about/'
+Images are in '/img/History/'
 
-###Team
+###People
 
-Team members and info are in '_config.yml'
+People members and info are in '_config.yml'
 
-Images are in '/img/team/'
+Images are in '/img/People/'
 
 
 # Demo
