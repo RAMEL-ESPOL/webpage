@@ -1,5 +1,5 @@
 ---
-title: Treehouse
+title: Dual arm manipulation
 subtitle: Website Design
 layout: default
 modal-id: 4
