@@ -5,6 +5,7 @@ layout: default
 modal-id: 7
 date: 2014-07-12
 img: roundicons.png
+video: https://www.youtube.com/embed/avqnbM4VFvM
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
@@ -14,4 +15,3 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/avqnbM4VFvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
