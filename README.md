@@ -1,4 +1,4 @@
-# How to use
+ How to use
 
 ###Portfolio 
 
@@ -6,13 +6,14 @@ Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###History
+###About
 
-Images are in '/img/History/'
+Images are in '/img/about/'
 
-###People
+###Team
 
-People members and info are in '_config.yml'
+Team members and info are in '_config.yml'
 
-Images are in '/img/People/'
+Images are in '/img/team/'
+
 

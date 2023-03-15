@@ -860,7 +860,7 @@
 	};
 
 	var getValue = function ($this) {
-		// Extract the value we're talking History
+		// Extract the value we're talking about
 		var value = $this.val();
 		var type = $this.attr("type");
 		if (type === "checkbox") {
