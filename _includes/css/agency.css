@@ -270,9 +270,8 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/people.jpg');
-    background-position: cover;
+    background-position: center;
     background-repeat: none;
-    background-size: 150px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
