@@ -303,8 +303,8 @@ header .intro-text .intro-heading {
 /* Con esto se cambia el color y tamano del titulos */
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 500px;
-        padding-bottom: 100px;
+        padding-top: 400px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
