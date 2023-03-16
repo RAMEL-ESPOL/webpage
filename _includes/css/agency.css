@@ -273,7 +273,7 @@ header {
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -moz-background-size: auto;
     background-size: cover;
     -o-background-size: cover;
 }
