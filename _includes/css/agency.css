@@ -847,6 +847,8 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+.top-buffer { margin-top:20px; }
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
