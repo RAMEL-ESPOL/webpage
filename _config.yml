@@ -78,8 +78,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Escuela Superior Politécnica del Litoral
+  - line: Facultad de Ingeniería en Mecánica y Ciencias de la Producción
+  - line: Campus "Gustavo Galindo" Km. 30.5 Vía Perimetral
+
 
 # Build settings
 markdown: kramdown
