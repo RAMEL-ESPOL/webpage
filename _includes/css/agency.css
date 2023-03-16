@@ -272,7 +272,7 @@ header {
     /* background-image: url('{{ site.baseurl }}/img/people.jpg');
     background-position: center center;
     background-repeat: none; */
-    background-color: #222;
+    background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
