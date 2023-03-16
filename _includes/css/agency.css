@@ -269,9 +269,10 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/people.jpg');
+    /* background-image: url('{{ site.baseurl }}/img/people.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: none; */
+    background-color: #222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
