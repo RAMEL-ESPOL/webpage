@@ -31,7 +31,7 @@ people:
       url: #
 
 - name: Jose Moran
-  pic: jose
+  pic: Jose
   position: Machine Desing
   social:
     - title: linkedin
@@ -80,7 +80,7 @@ social:
     url: https://github.com/RAMEL-ESPOL
   - title: youtube
     url: https://www.youtube.com/channel/UCKUpIfFA_JDt5FEH6SxWQsA
-  - title: linkedlink
+  - title: linkedin
     url: https://www.linkedin.com/in/franciscoyumbla/
   - title: twitter
     url: http://twitter.com/franciscoyumbla
