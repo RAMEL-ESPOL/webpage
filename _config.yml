@@ -8,73 +8,84 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Rhandall Valdez
+  pic: rhandall
+  position: Robot Design
   social:
-    - title: twitter
+    - title: linkedin
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Yandri Uchuari
+  pic: yandri
+  position: Robot Design
   social:
-    - title: twitter
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Luis Andrade
+  pic: luis
+  position: UGVr
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Cesar Aulestia
+  pic: cesar
+  position: Quadruped Design
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Javier Pagalo
+  pic: javier
+  position: Robot Manipulation
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jose Moran
+  pic: Jose
+  position: Machine Desing
+  social:
+    - title: linkedin
       url: #
     - title: facebook
       url: #
     - title: linkedin
       url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Diana Petersen
-  pic: 4
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Diana Petersen
-  pic: 5
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: github
+    url: https://github.com/RAMEL-ESPOL
+  - title: youtube
+    url: https://www.youtube.com/channel/UCKUpIfFA_JDt5FEH6SxWQsA
+  - title: linkedin
+    url: https://www.linkedin.com/in/franciscoyumbla/
   - title: twitter
     url: http://twitter.com/franciscoyumbla
   - title: facebook
     url: https://www.facebook.com/FRANCISCOYUMBLA/
-  - title: youtube
-    url: https://www.youtube.com/channel/UCKUpIfFA_JDt5FEH6SxWQsA
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/RAMEL-ESPOL
 
 # Postal address (add as many lines as necessary)
 address:
