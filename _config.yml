@@ -30,17 +30,6 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Jose Moran
-  pic: Jose
-  position: Machine Desing
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
 - name: Luis Andrade
   pic: luis
   position: UGVr
@@ -74,6 +63,17 @@ people:
     - title: google-plus
       url: #
 
+- name: Jose Moran
+  pic: Jose
+  position: Machine Desing
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
