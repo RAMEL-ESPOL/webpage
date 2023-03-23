@@ -63,8 +63,30 @@ people:
     - title: google-plus
       url: #
 
+- name: Sofia Espana
+  pic: sofia
+  position: Computer Vision
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Hugo Aviles
+  pic: hugo
+  position: Machine Desing
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 - name: Jose Moran
-  pic: Jose
+  pic: jose
   position: Machine Desing
   social:
     - title: linkedin
