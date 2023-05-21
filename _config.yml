@@ -95,7 +95,18 @@ people:
       url: #
     - title: linkedin
       url: #
-      
+
+- name: Iesus Dávila
+  pic: iesusDavila
+  position: UGV
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
