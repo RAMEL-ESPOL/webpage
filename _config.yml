@@ -150,6 +150,17 @@ people:
       url: #
     - title: instagram
       url: #
+
+- name: César Quintuña
+  pic: cesarQuintuña
+  position: UGV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
