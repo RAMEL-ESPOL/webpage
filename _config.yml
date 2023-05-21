@@ -162,6 +162,16 @@ people:
     - title: instagram
       url: #
 
+- name: Diego Ronquillo
+  pic: diegoRonquillo
+  position: Multi-Robot System
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
+    - title: github
+      url: #
+    - title: instagram
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
