@@ -107,6 +107,17 @@ people:
     - title: instagram
       url: https://www.instagram.com/iesusdavilaa/
 
+- name: Carlos González
+  pic: carlosGonzalez
+  position: Manuoukators robotic arms
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
