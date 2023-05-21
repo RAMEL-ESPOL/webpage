@@ -118,6 +118,17 @@ people:
     - title: instagram
       url: #
 
+- name: Jonathan Zavala
+  pic: jonathanZavala
+  position: UGV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
