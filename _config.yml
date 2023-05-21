@@ -140,6 +140,16 @@ people:
     - title: instagram
       url: #
 
+- name: Náger Naranjo
+  pic: nagerNaranjo
+  position: 
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
