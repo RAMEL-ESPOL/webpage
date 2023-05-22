@@ -8,27 +8,6 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Rhandall Valdez
-  pic: rhandall
-  position: Robot Design
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Yandri Uchuari
-  pic: yandri
-  position: Robot Design
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
 - name: Luis Andrade
   pic: luis
@@ -61,39 +40,6 @@ people:
     - title: facebook
       url: #
     - title: google-plus
-      url: #
-
-- name: Sofia Espana
-  pic: sofia
-  position: Computer Vision
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Hugo Aviles
-  pic: hugoAviles
-  position: Machine Desing
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Jose Moran
-  pic: jose
-  position: Machine Desing
-  social:
-    - title: linkedin
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
       url: #
 
 - name: Ginger García
