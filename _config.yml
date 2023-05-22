@@ -118,17 +118,6 @@ people:
     - title: instagram
       url: #
 
-- name: Jonathan Zavala
-  pic: jonathanZavala
-  position: UGV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Daniela Cueva
   pic: danielaCueva
   position: Soft Robotic
@@ -201,6 +190,17 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Jonathan Zavala
+  pic: jonathanZavala
+  position: UGV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
     - title: github
       url: #
     - title: instagram
