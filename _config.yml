@@ -129,17 +129,6 @@ people:
     - title: instagram
       url: #
 
-- name: Náger Naranjo
-  pic: nagerNaranjo
-  position: Soft Robotics
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Daniela Cueva
   pic: danielaCueva
   position: Soft Robotic
@@ -201,6 +190,17 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Náger Naranjo
+  pic: nagerNaranjo
+  position: Soft Robotics
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
     - title: github
       url: #
     - title: instagram
