@@ -140,17 +140,6 @@ people:
     - title: instagram
       url: #
 
-- name: César Quintuña
-  pic: cesarQuintuña
-  position: UGV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Diego Ronquillo
   pic: diegoRonquillo
   position: Multi-Robot System
@@ -201,6 +190,17 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/kevin-santana-7a8211217/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: César Quintuña
+  pic: cesarQuintuña
+  position: UGV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
     - title: github
       url: #
     - title: instagram
