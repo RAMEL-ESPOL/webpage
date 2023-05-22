@@ -184,6 +184,17 @@ people:
     - title: instagram
       url: #
 
+- name: Ramses Garcia
+  pic: ramsesGarcia
+  position: Soft Robotic
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
