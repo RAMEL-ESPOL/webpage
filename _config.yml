@@ -184,12 +184,23 @@ people:
     - title: instagram
       url: #
 
-- name: Ramses Garcia
+- name: Ramses García
   pic: ramsesGarcia
   position: Soft Robotic
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Ginger García
+  pic: gingerGarcia
+  position: 
+  social: 
+    - title: linkedin
+      url: #
     - title: github
       url: #
     - title: instagram
