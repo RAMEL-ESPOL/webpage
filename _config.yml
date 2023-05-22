@@ -129,17 +129,6 @@ people:
     - title: instagram
       url: #
 
-- name: Kevin Santana
-  pic: kevinSantana
-  position: UAV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/kevin-santana-7a8211217/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Náger Naranjo
   pic: nagerNaranjo
   position: Soft Robotics
@@ -206,6 +195,17 @@ people:
     - title: instagram
       url: #
 
+- name: Kevin Santana
+  pic: kevinSantana
+  position: UAV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/kevin-santana-7a8211217/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
