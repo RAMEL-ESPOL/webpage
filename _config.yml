@@ -96,50 +96,6 @@ people:
     - title: linkedin
       url: #
 
-- name: Iesus Dávila
-  pic: iesusDavila
-  position: UGV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
-    - title: github
-      url: https://github.com/iesusdavila
-    - title: instagram
-      url: https://www.instagram.com/iesusdavilaa/
-
-- name: Carlos González
-  pic: carlosGonzalez
-  position: Manuoukators robotic arms
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
-- name: Daniela Cueva
-  pic: danielaCueva
-  position: Soft Robotic
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/daniela-cueva-jim%C3%A9nez-583348216
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
-- name: Ramses García
-  pic: ramsesGarcia
-  position: Soft Robotic
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Ginger García
   pic: gingerGarcia
   position: 
@@ -201,6 +157,50 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Iesus Dávila
+  pic: iesusDavila
+  position: UGV
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
+    - title: github
+      url: https://github.com/iesusdavila
+    - title: instagram
+      url: https://www.instagram.com/iesusdavilaa/
+
+- name: Carlos González
+  pic: carlosGonzalez
+  position: Manuoukators robotic arms
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Daniela Cueva
+  pic: danielaCueva
+  position: Soft Robotic
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/daniela-cueva-jim%C3%A9nez-583348216
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Ramses García
+  pic: ramsesGarcia
+  position: Soft Robotic
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
     - title: github
       url: #
     - title: instagram
