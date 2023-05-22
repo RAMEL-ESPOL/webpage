@@ -173,6 +173,17 @@ people:
     - title: instagram
       url: #
 
+- name: Daniela Cueva
+  pic: danielaCueva
+  position: Soft Robotic
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/daniela-cueva-jim%C3%A9nez-583348216
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
