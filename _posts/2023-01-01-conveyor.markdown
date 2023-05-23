@@ -1,6 +1,6 @@
 ---
-title: Medical Robot
-subtitle: Social Robot
+title: BOX and Package
+subtitle: Manipulator
 layout: default
 modal-id: 1
 date: 2023-02-01
