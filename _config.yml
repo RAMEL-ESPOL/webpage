@@ -96,12 +96,12 @@ people:
     - title: instagram
       url: https://www.instagram.com/iesusdavilaa/
 
-- name: Carlos González
-  pic: carlosGonzalez
-  position: Manuoukators Robotic Arms
+- name: Náger Naranjo
+  pic: nagerNaranjo
+  position: Soft Robotics
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
+      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
     - title: github
       url: #
     - title: instagram
@@ -195,17 +195,18 @@ people:
     - title: instagram
       url: #
 
-- name: Náger Naranjo
-  pic: nagerNaranjo
-  position: Soft Robotics
+- name: Carlos González
+  pic: carlosGonzalez
+  position: Manuoukators Robotic Arms
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
+      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
     - title: github
       url: #
     - title: instagram
       url: #
 
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
