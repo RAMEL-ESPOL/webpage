@@ -74,17 +74,6 @@ people:
     - title: instagram
       url: #
 
-- name: Diego Ronquillo
-  pic: diegoRonquillo
-  position: Multi-Robot System
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
-    - title: github
-      url: #
-    - title: instagram
-      url: #
-
 - name: Náger Naranjo
   pic: nagerNaranjo
   position: Soft Robotics
@@ -146,6 +135,17 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
+    - title: github
+      url: #
+    - title: instagram
+      url: #
+
+- name: Diego Ronquillo
+  pic: diegoRonquillo
+  position: Multi-Robot System
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
     - title: github
       url: #
     - title: instagram
