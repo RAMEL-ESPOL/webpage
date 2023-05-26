@@ -1,0 +1,16 @@
+---
+title: Quadruped
+subtitle: Robot Design
+layout: default
+modal-id: 5
+date: 2020-05-28
+img: quadruped.png
+thumbnail: quadruped-thumbnail.png
+video: https://www.youtube.com/embed/vYP439cfn9g 
+alt: image-alt
+project-date: May 2020
+client: Start Bootstrap
+category: Web Development
+description: Agregar.
+
+---
