@@ -4,7 +4,7 @@ subtitle: Manipulator
 layout: default
 modal-id: 1
 date: 2023-02-01
-img: yaren.png
+img: bpManipulator.png
 thumbnail: yaren-thumbnail.png
 video: https://www.youtube.com/embed/avqnbM4VFvM
 alt: image-alt
