@@ -6,7 +6,7 @@ modal-id: 0
 date: 2023-02-01
 img: yaren.png
 thumbnail: yaren-thumbnail.png
-video: https://www.youtube.com/watch?v=7UP7OqsaPMk
+video: https://www.youtube.com/embed/avqnbM4VFvM
 alt: image-alt
 project-date: Feb 2023
 client: Start Bootstrap
