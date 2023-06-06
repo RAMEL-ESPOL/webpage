@@ -113,20 +113,12 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Aldahir Ramirez
   pic: aldahirRamirez
   position: #
   social: 
     - title: linkedin
-      url: #
-    - title: github
-      url: #
-    - title: instagram
       url: #
 
 - name: Cristobal Lara
@@ -135,20 +127,12 @@ people:
   social: 
     - title: linkedin
       url: #
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Luis Arroba
   pic: luisArroba
   position: #
   social: 
     - title: linkedin
-      url: #
-    - title: github
-      url: #
-    - title: instagram
       url: #
 
 - name: Axcel Espinoza
@@ -157,20 +141,12 @@ people:
   social: 
     - title: linkedin
       url: #
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Favia Elizalde
   pic: faviaElizalde
   position: #
   social: 
     - title: linkedin
-      url: #
-    - title: github
-      url: #
-    - title: instagram
       url: #
 
 - name: Oscar Yturralde
@@ -179,20 +155,12 @@ people:
   social: 
     - title: linkedin
       url: #
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Anthonny Piguave
   pic: anthonnyPiguave
   position: #
   social: 
     - title: linkedin
-      url: #
-    - title: github
-      url: #
-    - title: instagram
       url: #
 
 - name: Carlos González
@@ -201,10 +169,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
