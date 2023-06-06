@@ -11,6 +11,6 @@ alt: image-alt
 project-date: May 2020
 client: Start Bootstrap
 category: Web Development
-description: Agregar.
+description: This project aims to analyze the range of motions and characteristics of a quadruped robot for stair climbing and crossing over an obstacle.  Humans have a higher range than quadruped animals due to longer legs.  We can make fewer steps and reach the same distance, can climb stairs by two or three steps and not only one, and cross over high obstacles thanks to our leg range.  However, stability is different because quadruped has four contact points, whereas humans have only.  Quadrupeds  maintain walking  stability because their gravity  center falls  within  the triangle of support from the three legs when one is up, but in the same condition, humans encounter a complex challenge to maintain equilibrium. We propose using these inherent characteristics of a quadruped robot for motion analysis of stair climbing by two or three steps and cross over a big obstacle while maintaining high stability in a quadruped robot.  We aboard in the discussion significant aspects of leg dimensions and joint ranges with geometrical analysis to find the optimal position of the feet. The motion effectiveness was verified experimentally by implementing the motions from the preliminary tests to a quadruped robot..
 
 ---
