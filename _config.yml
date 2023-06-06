@@ -14,10 +14,6 @@ people:
   social:
     - title: linkedin
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: César Aulestia
   pic: cesarAulestia
@@ -36,20 +32,12 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/javier-pagalo
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: Ginger García
   pic: gingerGarcia
-  position: 
+  position: Vision Recongnition
   social: 
     - title: linkedin
-      url: #
-    - title: github
-      url: #
-    - title: instagram
       url: #
 
 - name: Kevin Santana
@@ -58,10 +46,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/kevin-santana-7a8211217/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: César Quintuña
   pic: cesarQuintuña
@@ -69,10 +53,20 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
+
+- name: Diego Ronquillo
+  pic: diegoRonquillo
+  position: Multi-Robot System
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
+
+- name: Náger Naranjo
+  pic: nagerNaranjo
+  position: Soft Robotics
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
 
 - name: Jonathan Zavala
   pic: jonathanZavala
@@ -80,10 +74,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Iesus Dávila
   pic: iesusDavila
@@ -96,16 +86,12 @@ people:
     - title: instagram
       url: https://www.instagram.com/iesusdavilaa/
 
-- name: Náger Naranjo
-  pic: nagerNaranjo
-  position: Soft Robotics
+- name: Carlos González
+  pic: carlosGonzalez
+  position: Manipulator Desing
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-    - title: github
-      url: #
-    - title: instagram
-      url: #
+      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
 
 - name: Daniela Cueva
   pic: danielaCueva
@@ -113,10 +99,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/daniela-cueva-jim%C3%A9nez-583348216
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Ramses García
   pic: ramsesGarcia
@@ -124,10 +106,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
-    - title: github
-      url: #
-    - title: instagram
-      url: #
 
 - name: Diego Ronquillo
   pic: diegoRonquillo
