@@ -35,7 +35,7 @@ people:
 
 - name: Ginger García
   pic: gingerGarcia
-  position: Vision Recongnition
+  position: Vision Recognition
   social: 
     - title: linkedin
       url: #
@@ -88,7 +88,7 @@ people:
 
 - name: Carlos González
   pic: carlosGonzalez
-  position: Manipulator Desing
+  position: Manipulator Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
@@ -123,7 +123,7 @@ people:
 
 - name: Cristobal Lara
   pic: cristobalLara
-  position: Manipulator Desing
+  position: Manipulator Design
   social: 
     - title: linkedin
       url: #
