@@ -163,6 +163,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/anthony-l%C3%B3pez-uquillas-360208210
 
+- name: José Landívar
+  pic: #
+  position: Soft robotics
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jlandivar
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
