@@ -133,7 +133,9 @@ people:
   position: UGV
   social: 
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/axcelespinoza
+    - title: github
+      url: https://github.com/Axcel17
 
 - name: Favia Elizalde
   pic: faviaElizalde
