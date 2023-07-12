@@ -179,6 +179,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/aaroneduardovillacisarroyave/
 
+- name: Alanis Menéndez
+  pic: alanisMenendez
+  position: Soft Robotics
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/alanis-men%C3%A9ndez-san-lucas-2a703b210
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
