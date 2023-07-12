@@ -107,13 +107,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
 
-- name: Diego Ronquillo
-  pic: diegoRonquillo
-  position: Multi-Robot System
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
-
 - name: Aldahir Ramirez
   pic: aldahirRamirez
   position: Vision Recognition
