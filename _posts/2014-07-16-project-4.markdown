@@ -10,7 +10,7 @@ video: https://www.youtube.com/embed/LZH7x3FPZWg
 alt: image-alt
 project-date: May 2020
 client: Start Bootstrap
-category: Web Development
+category: Soft Robotics
 description: Grasping  and  holding  objects  are  essential  tasksfor  robotic  manipulators.  However,  the  development  of  uni-versal grippers capable of manipulating unknown objects withwidely  varying  shapes  and  surface  properties  remains  a  chal-lenge.  To  address  this,  we  present  a  novel  reconfigurable  softgripper  (OobSoft)  based  on  Oobleck,  deposited  on  a  rubbermembrane  with  a  two-finger  configuration  with  an  actuationmechanism. This article presents a prototype and the develop-ment of this soft gripper with grasping and holding capabilitiesenabled  by  a  simple  actuation  mechanism.  This  objective  wasachieved by taking advantage of a combination of soft materials,including the properties of Oobleck, rubber, and a bio-inspireddesign.  When  pressed  on  a  target  object,  the  fingers  (Oobleckinside a rubber membrane) flow around the object and conformto its shape. Upon application of the actuation mechanism, theviscosity  of  the  Oobleck  increases,  so  it  quickly  hardens  topinch and hold the object without requiring sensory feedback.The   development   of   the   soft   gripper   is   explained   by   thecharacteristics of the Oobleck and the prototype. The design ofthe  soft  gripper  involved  the  anthropomorphic  approach  usedin the design of the fingers. The results of grasping objects andthe ability to hold them in position were demonstrated throughexperimental  tests.
 
 ---

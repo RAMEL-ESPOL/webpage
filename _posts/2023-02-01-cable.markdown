@@ -10,7 +10,7 @@ video: https://www.youtube.com/embed/-c3lUVEltBA
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: Robotic Manipulators
 description: we analyze and propose a recognition process of plug-in cable connectors for wiring harnessassembly tasks using image processing.  For manipulation and routing of wire harness,  knowing the accurate pose ofthe cable connector is very critical in the grasping moment.  The recognition process is crucial to minimize the error inthe manipulation of the connectors.  Nowadays, we notice that collaborative robot manipulators or small size industrialrobot manipulators attain high accuracy and repeatability levels (sub-millimeter); thus, demonstrate very precise positioncontrol capabilities. Using those capacities and with the correct recognition system, we can apply to the automation of thewire harness assembly process. For that reason, we propose a connector recognition system to obtain the precise positionof the connectors on a work table; which is necessary to obtain a successful grasping and manipulation of the connectorsin a wire harness. The system and the recognition process are explained in detail, and validated experimentally.
 
 ---
