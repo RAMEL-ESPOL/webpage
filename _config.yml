@@ -13,7 +13,7 @@ people:
   position: UGV
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/luis-alberto-andrade-proa%C3%B1o-b6217a138
 
 - name: César Aulestia
   pic: cesarAulestia
@@ -185,6 +185,13 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/alanis-men%C3%A9ndez-san-lucas-2a703b210
+
+- name: Andrew Tomalá
+  pic: andrewTomala
+  position: Soft Robotics
+  social: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/andrew-tomal%C3%A1-zapata-238989277/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
