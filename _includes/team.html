@@ -58,7 +58,27 @@
                 </div>
                 <!-- Cuerpo del modal -->
                 <div class="modal-body">
-                    <p>Contenido del modal...</p>
+                    <div class="row">
+                        {% for member in site.people %}
+                        <div class="col-sm-2">
+                            <div class="team-member">
+                                <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle"
+                                    width="automatic" height="70px">
+                                <h4>{{ member.name }}</h4>
+                                <p class="text-muted">{{ member.position }}</p>
+                                <ul class="list-inline social-buttons">
+                                    {% for network in member.social %}
+                                    <li>
+                                        <a href="{{ network.url }}" target="_blank" rel="noopener noreferrer">
+                                            <i class="fa fa-{{ network.title }}"></i>
+                                        </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
                 </div>
                 <!-- Pie del modal -->
                 <div class="modal-footer">
