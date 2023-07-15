@@ -45,7 +45,8 @@
         </div>
 
         <div class="portfolio-modal modal fade" id="myModal" tabindex="-1" role="dialog" aria-hidden="false">
-            <div class="modal-content">
+            <div class="modal-content bg-light-gray">
+                <!--Botón para cerrar el modal-->
                 <div class="close-modal" data-dismiss="modal">
                     <div class="lr">
                         <div class="rl">
@@ -53,16 +54,17 @@
                     </div>
                 </div>
                 <div class="container">
+                    <!--Título del modal-->
                     <div class="row">
                         <div class="col-lg-12 text-center">
-                            <h2 class="section-heading">MEMBERS</h2>
+                            <h2 class="section-heading">ALUMNI</h2>
                             <hr class="star-primary">
                             <h2 class="section-subheading text-muted"></h2>
                         </div>
                     </div>
-                    
+                    <!--Se agrega la información de cada alumni-->
                     <div class="row">
-                        {% for member in site.people %}
+                        {% for member in site.alumni %}
                         <div class="col-sm-2">
                             <div class="team-member">
                                 <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" width="automatic"
@@ -77,13 +79,12 @@
                                         </a>
                                     </li>
                                     {% endfor %}
-            
                                 </ul>
                             </div>
                         </div>
                         {% endfor %}
                     </div>
-
+                    <!--Botón para cerrar el modal-->
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="text-center">
