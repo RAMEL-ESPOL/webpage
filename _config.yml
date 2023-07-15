@@ -193,6 +193,15 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/andrew-tomal%C3%A1-zapata-238989277/
 
+# Alumni names, titles and social links
+alumni:
+- name: Yandri Uchuari
+  pic: yandriUchuari
+  position: Robots Design
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/yandriuchuari/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
