@@ -202,6 +202,34 @@ alumni:
   - title: linkedin
     url: https://www.linkedin.com/in/yandriuchuari/
 
+- name: Rhandall Valdez
+  pic: rhandallValdez
+  position: Robots Design
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/rhandall-kevin-valdez-yepez/
+
+- name: Jose Morán
+  pic: joseMoran
+  position: Machine Design
+  social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/jose-antonio-mor%C3%A1n-rodriguez/
+
+- name: Sofia Espana
+  pic: sofiaEspana
+  position: Computer Vision
+  social: 
+  - title: linkedin
+    url: #
+
+- name: Hugo Aviles 
+  pic: hugoAviles
+  position: Machine Design
+  social: 
+  - title: linkedin
+    url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
