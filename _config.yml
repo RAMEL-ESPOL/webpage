@@ -151,6 +151,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
 
+- name: Anthonny Piguave
+  pic: anthonnyPiguave
+  position: Multi-Robot System
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/anthonnypiguave/
+
 - name: Anthony López
   pic: anthonyLopez
   position: Manipulator Design
@@ -172,6 +179,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/aaroneduardovillacisarroyave/
 
+- name: Alanis Menéndez
+  pic: alanisMenendez
+  position: Soft Robotics
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/alanis-men%C3%A9ndez-san-lucas-2a703b210
+
 - name: Andrew Tomalá
   pic: andrewTomala
   position: Soft Robotics
@@ -185,20 +199,6 @@ people:
   social: 
   - title: linkedin
     url: https://www.linkedin.com/in/martin-mendoza-mansilla/
-
-- name: Anthonny Piguave
-  pic: anthonnyPiguave
-  position: Multi-Robot System
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/anthonnypiguave/
-
-- name: Alanis Menéndez
-  pic: alanisMenendez
-  position: Soft Robotics
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/alanis-men%C3%A9ndez-san-lucas-2a703b210
 
 # Alumni names, titles and social links
 alumni:
