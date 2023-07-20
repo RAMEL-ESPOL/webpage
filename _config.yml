@@ -193,6 +193,13 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/andrew-tomal%C3%A1-zapata-238989277/
 
+- name: Martín Mendoza
+  pic: martinMendoza
+  position: Robots Design
+  social: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/martin-mendoza-mansilla/
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
