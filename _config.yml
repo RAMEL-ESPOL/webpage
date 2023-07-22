@@ -25,8 +25,8 @@ people:
       url: https://www.linkedin.com/in/c%C3%A9sar-alexander-aulestia-tena-089196264/
     - title: github
       url: https://github.com/caulesti
-    - title: instagram
-      url: https://www.instagram.com/aulestia82/
+    # - title: instagram
+    #   url: https://www.instagram.com/aulestia82/
 
 - name: Javier Pagalo
   pic: javierPagalo
@@ -85,8 +85,8 @@ people:
       url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
     - title: github
       url: https://github.com/iesusdavila
-    - title: instagram
-      url: https://www.instagram.com/iesusdavilaa/
+    # - title: instagram
+    #   url: https://www.instagram.com/iesusdavilaa/
 
 - name: Carlos González
   pic: carlosGonzalez
