@@ -35,12 +35,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/javier-pagalo
 
-- name: Ginger García
-  pic: gingerGarcia
-  position: Vision Recognition
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/ginger-garcia-58a0aa210
+# - name: Ginger García
+#   pic: gingerGarcia
+#   position: Vision Recognition
+#   social: 
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/ginger-garcia-58a0aa210
 
 - name: Kevin Santana
   pic: kevinSantana
@@ -109,12 +109,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
 
-- name: Aldahir Ramirez
-  pic: aldahirRamirez
-  position: Vision Recognition
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/aldahir-sebastian-ramirez-celi-4722a9233
+# - name: Aldahir Ramirez
+#   pic: aldahirRamirez
+#   position: Vision Recognition
+#   social: 
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/aldahir-sebastian-ramirez-celi-4722a9233
 
 - name: Cristobal Lara
   pic: cristobalLara
