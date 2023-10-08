@@ -10,12 +10,6 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Luis Andrade
-  pic: luis
-  position: UGV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/luis-alberto-andrade-proa%C3%B1o-b6217a138
 
 - name: César Aulestia
   pic: cesarAulestia
@@ -27,20 +21,6 @@ people:
       url: https://github.com/caulesti
     # - title: instagram
     #   url: https://www.instagram.com/aulestia82/
-
-- name: Javier Pagalo
-  pic: javierPagalo
-  position: Robot Manipulation
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/javier-pagalo
-
-# - name: Ginger García
-#   pic: gingerGarcia
-#   position: Vision Recognition
-#   social: 
-#     - title: linkedin
-#       url: https://www.linkedin.com/in/ginger-garcia-58a0aa210
 
 - name: Kevin Santana
   pic: kevinSantana
@@ -55,13 +35,6 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
-
-- name: Diego Ronquillo
-  pic: diegoRonquillo
-  position: Multi-Robot System
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
 
 - name: Náger Naranjo
   pic: nagerNaranjo
@@ -109,35 +82,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
 
-# - name: Aldahir Ramirez
-#   pic: aldahirRamirez
-#   position: Vision Recognition
-#   social: 
-#     - title: linkedin
-#       url: https://www.linkedin.com/in/aldahir-sebastian-ramirez-celi-4722a9233
-
-- name: Cristobal Lara
-  pic: cristobalLara
-  position: Manipulator Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/crist%C3%B3bal-lara-3a7ba91b3
-
 - name: Luis Arroba
   pic: luisArroba
   position: UAV
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/luis-mario-arroba-v%C3%A1squez-744974210/
-
-- name: Axcel Espinoza
-  pic: axcelEspinoza
-  position: UGV
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/axcelespinoza
-    - title: github
-      url: https://github.com/Axcel17
 
 - name: Favia Elizalde
   pic: faviaElizalde
@@ -152,13 +102,6 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
-
-- name: Anthonny Piguave
-  pic: anthonnyPiguave
-  position: Multi-Robot System
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/anthonnypiguave/
 
 - name: Anthony López
   pic: anthonyLopez
@@ -206,38 +149,73 @@ people:
 alumni:
 - name: Yandri Uchuari
   pic: yandriUchuari
-  position: Robots Design
+  position: 2022I
   social:
   - title: linkedin
     url: https://www.linkedin.com/in/yandriuchuari/
 
 - name: Rhandall Valdez
   pic: rhandall
-  position: Robots Design
+  position: 2022I
   social:
   - title: linkedin
     url: https://www.linkedin.com/in/rhandall-kevin-valdez-yepez/
 
 - name: Jose Morán
   pic: joseMoran
-  position: Machine Design
+  position: 2022I
   social:
   - title: linkedin
     url: https://www.linkedin.com/in/jose-antonio-mor%C3%A1n-rodriguez/
 
 - name: Sofía España
   pic: sofiaEspana
-  position: Computer Vision
+  position: 2022I
   social: 
   - title: linkedin
     url: https://www.linkedin.com/in/sof%C3%ADa-espa%C3%B1a-71743b1b6/
 
 - name: Hugo Aviles 
   pic: hugoAviles
-  position: Machine Design
+  position: 2022I
   social: 
   - title: linkedin
     url: https://www.linkedin.com/in/hugmavil/
+
+- name: Luis Andrade
+  pic: luis
+  position: 2022II
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/luis-alberto-andrade-proa%C3%B1o-b6217a138
+      
+- name: Javier Pagalo
+  pic: javierPagalo
+  position: 2022II
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/javier-pagalo
+      
+- name: Diego Ronquillo
+  pic: diegoRonquillo
+  position: 2022II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
+
+- name: Cristobal Lara
+  pic: cristobalLara
+  position: 2022II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/crist%C3%B3bal-lara-3a7ba91b3
+      
+- name: Anthonny Piguave
+  pic: anthonnyPiguave
+  position: 2022II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/anthonnypiguave/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
