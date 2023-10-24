@@ -173,6 +173,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
+- name: Melissa Barberán
+  pic: melissaBarberan
+  position: research assistants
+  social: 
+    - title: linkedin
+      url: #
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
