@@ -152,6 +152,13 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/robinson-jacome-32a1a4184?trk=contact-info
 
+- name: Daniel Paladines
+  pic: danielPaladines
+  position: Robots Programmer
+  social: 
+    - title: linkedin
+      url: 
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
