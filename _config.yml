@@ -173,12 +173,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
-- name: Melissa Barberán
-  pic: MelissaBarberan
-  position: research assistants
-  social: 
-    - title: linkedin
-      url: #
+#- name: Melissa Barberán
+#  pic: MelissaBarberan
+#  position: research assistants
+#  social: 
+#    - title: linkedin
+#      url: #
 
 - name: Génesis Vargas
   pic: genesisVargas
@@ -186,6 +186,13 @@ people:
   social: 
     - title: linkedin
       url: #
+
+- name: Luis Campos
+  pic: luisCampos
+  position: Submersible Robots
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
 
 # Alumni names, titles and social links
 alumni:
