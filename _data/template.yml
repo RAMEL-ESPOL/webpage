@@ -7,6 +7,9 @@ color:
   secondary-dark: 333
   muted: 777
 
+#FC4B08
+# (252,75,8) RGB
+
 # Font Families
 font:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
