@@ -201,6 +201,13 @@ people:
     - title: linkedin
       url: #
 
+- name: Edison Egas
+  pic: edisonEgas
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/edison-egas-52912b224/
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
