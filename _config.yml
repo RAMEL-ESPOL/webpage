@@ -215,6 +215,20 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
 
+- name: Johan Gutiérrez
+  pic: johanGutierrez
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: #
+
+- name: Andrius Jaya
+  pic: andriusJaya
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: #
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
