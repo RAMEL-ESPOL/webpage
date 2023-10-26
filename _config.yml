@@ -194,13 +194,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
 
-- name: Jorge Zapata
-  pic: jorgeZapata
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: #
-
 - name: Edison Egas
   pic: edisonEgas
   position: Robots Design
@@ -224,6 +217,13 @@ people:
 
 - name: Andrius Jaya
   pic: andriusJaya
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: #
+
+- name: Jorge Zapata
+  pic: jorgeZapata
   position: Robots Design
   social: 
     - title: linkedin
