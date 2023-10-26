@@ -187,12 +187,19 @@ people:
     - title: linkedin
       url: #
 
-#- name: Luis Campos
-#  pic: luisCampos
-#  position: Submersible Robots
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
+- name: Luis Campos
+  pic: luisCampos
+  position: Submersible Robots
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
+
+- name: Jorge Zapata
+  pic: jorgeZapata
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: #
 
 # Alumni names, titles and social links
 alumni:
