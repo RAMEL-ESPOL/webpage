@@ -208,6 +208,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/edison-egas-52912b224/
 
+- name: Sergio Balcázar
+  pic: sergioBalcazar
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
