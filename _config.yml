@@ -173,13 +173,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
-- name: Melissa Barberán
-  pic: melissaBarberan
-  position: Research Assistants
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
-
 - name: Génesis Vargas
   pic: genesisVargas
   position: Research Assistants
@@ -228,6 +221,13 @@ people:
   social: 
     - title: linkedin
       url: #
+
+- name: Melissa Barberán
+  pic: melissaBarberan
+  position: Research Assistants
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
 # Alumni names, titles and social links
 alumni:
