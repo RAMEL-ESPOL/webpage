@@ -34,31 +34,6 @@
     </div>
   </div>
 
-  <style>
-    /* Estilo para hacer el contenido opaco al principio */
-    body.initially-opaque {
-      opacity: 0.3;
-      pointer-events: none;
-    }
-  </style>
-
-  <script>
-    // Mostrar la ventana emergente de cookies al cargar la página
-    $(document).ready(function () {
-      // Hacer que el contenido sea inicialmente opaco
-      $('body').addClass('initially-opaque');
-
-      // Muestra la ventana emergente de cookies
-      $('#cookieModal').modal('show');
-    });
-
-    // Función para aceptar las cookies y mostrar el contenido
-    function acceptCookies() {
-      // Quitar la opacidad del contenido
-      $('body').removeClass('initially-opaque');
-    }
-  </script>
-
 </body>
 
 </html>
