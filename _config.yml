@@ -206,21 +206,21 @@ people:
   position: Robots Design
   social: 
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/johan-ricardo-guti%C3%A9rrez-mac%C3%ADas-428818218/
 
-- name: Andrius Jaya
-  pic: andriusJaya
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: #
+#- name: Andrius Jaya
+#  pic: andriusJaya
+#  position: Robots Design
+#  social: 
+#    - title: linkedin
+#      url: #
 
-- name: Jorge Zapata
-  pic: jorgeZapata
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: #
+#- name: Jorge Zapata
+#  pic: jorgeZapata
+#  position: Robots Design
+#  social: 
+#    - title: linkedin
+#      url: #
 
 - name: Melissa Barberán
   pic: melissaBarberan
