@@ -110,12 +110,6 @@ people:
 #    - title: linkedin
 #      url: https://www.linkedin.com/in/anthony-l%C3%B3pez-uquillas-360208210
 
-- name: José Landívar
-  pic: joseLandivar
-  position: Soft robotics
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jlandivar
 
 #- name: Aarón Villacis
 #  pic: aaronVillacis
@@ -152,12 +146,12 @@ people:
   - title: linkedin
     url: https://www.linkedin.com/in/robinson-jacome-32a1a4184?trk=contact-info
 
-- name: Daniel Paladines
-  pic: danielPaladines
-  position: Robots Programmer
-  social: 
-    - title: linkedin
-      url: #
+#- name: Daniel Paladines
+#  pic: danielPaladines
+#  position: Robots Programmer
+#  social: 
+#    - title: linkedin
+#      url: #
 
 - name: Camila Reyes
   pic: camilaReyes
@@ -300,6 +294,13 @@ alumni:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/anthonnypiguave/
+
+- name: José Landívar
+  pic: joseLandivar
+  position: 2023II
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jlandivar
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
