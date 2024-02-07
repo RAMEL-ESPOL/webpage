@@ -22,12 +22,12 @@ people:
     # - title: instagram
     #   url: https://www.instagram.com/aulestia82/
 
-- name: Kevin Santana
-  pic: kevinSantana
-  position: UAV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/kevin-santana-7a8211217/
+#- name: Kevin Santana
+#  pic: kevinSantana
+#  position: UAV
+#  social:
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/kevin-santana-7a8211217/
 
 - name: César Quintuña
   pic: cesarQuintuña
@@ -43,12 +43,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
 
-- name: Jonathan Zavala
-  pic: jonathanZavala
-  position: UAV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
+#- name: Jonathan Zavala
+#  pic: jonathanZavala
+#  position: UAV
+#  social:
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
 
 - name: Iesus Dávila
   pic: iesusDavila
@@ -96,12 +96,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/favia-elizalde-aristeguieta
 
-- name: Oscar Yturralde
-  pic: oscarYturralde
-  position: UAV
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
+#- name: Oscar Yturralde
+#  pic: oscarYturralde
+#  position: UAV
+#  social: 
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
 
 #- name: Anthony López
 #  pic: anthonyLopez
@@ -167,19 +167,19 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
-- name: Génesis Vargas
-  pic: genesisVargas
-  position: Research Assistants
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/g%C3%A9nesis-dayanna-vargas-isa-653554222/
+#- name: Génesis Vargas
+#  pic: genesisVargas
+#  position: Research Assistants
+#  social: 
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/g%C3%A9nesis-dayanna-vargas-isa-653554222/
 
-- name: Luis Campos
-  pic: luisCampos
-  position: Submersible Robots
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
+#- name: Luis Campos
+#  pic: luisCampos
+#  position: Submersible Robots
+#  social: 
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
 
 - name: Edison Egas
   pic: edisonEgas
@@ -195,12 +195,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
 
-- name: Johan Gutiérrez
-  pic: johanGutierrez
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/johan-ricardo-guti%C3%A9rrez-mac%C3%ADas-428818218/
+#- name: Johan Gutiérrez
+#  pic: johanGutierrez
+#  position: Robots Design
+#  social: 
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/johan-ricardo-guti%C3%A9rrez-mac%C3%ADas-428818218/
 
 #- name: Andrius Jaya
 #  pic: andriusJaya
