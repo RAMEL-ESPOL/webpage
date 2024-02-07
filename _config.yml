@@ -103,12 +103,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
 
-- name: Anthony López
-  pic: anthonyLopez
-  position: Manipulator Design
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/anthony-l%C3%B3pez-uquillas-360208210
+#- name: Anthony López
+#  pic: anthonyLopez
+#  position: Manipulator Design
+#  social:
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/anthony-l%C3%B3pez-uquillas-360208210
 
 - name: José Landívar
   pic: joseLandivar
