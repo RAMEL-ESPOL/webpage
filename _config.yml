@@ -223,6 +223,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
+- name: Newton Toledo
+  pic: newtonToledo
+  position: Robots Programmer
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
