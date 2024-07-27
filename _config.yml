@@ -195,6 +195,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
 
+- name: Isaac León
+  pic: isaacLeon
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 #- name: Johan Gutiérrez
 #  pic: johanGutierrez
 #  position: Robots Design
@@ -218,21 +225,21 @@ people:
 
 - name: Melissa Barberán
   pic: melissaBarberan
-  position: Research Assistants
+  position: Research Assistant
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
 - name: Newton Toledo
   pic: newtonToledo
-  position: Robots Programmer
+  position: Research Assistant
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
 
 - name: Ivan Baldeon
   pic: ivanBaldeon
-  position: Robots Programmer
+  position: Research Assistant
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/ivan-baldeon-baque-49035a2b4/
