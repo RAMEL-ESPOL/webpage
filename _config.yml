@@ -202,6 +202,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+- name: Juan Saeteros
+  pic: juanSaeteros
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      
 #- name: Johan Gutiérrez
 #  pic: johanGutierrez
 #  position: Robots Design
