@@ -1,6 +1,6 @@
 ---
-title: Medical Robot
-subtitle: Social Robot
+title: Social Robot
+subtitle: Robots Design
 layout: default
 modal-id: 0
 date: 2023-02-01

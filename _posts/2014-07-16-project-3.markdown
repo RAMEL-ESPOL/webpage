@@ -1,6 +1,6 @@
 ---
 title: Cable Manipulator
-subtitle: Using a Vibration Plate
+subtitle: Robotic Manipulators
 layout: default
 modal-id: 3
 date: 2020-05-28

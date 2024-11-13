@@ -1,6 +1,6 @@
 ---
-title: Cable and Connector
-subtitle: Recognition
+title: Computer Vision
+subtitle: Artificial Intelligence
 layout: default
 modal-id: 2
 date: 2023-02-01
