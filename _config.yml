@@ -22,44 +22,12 @@ people:
     # - title: instagram
     #   url: https://www.instagram.com/aulestia82/
 
-#- name: Kevin Santana
-#  pic: kevinSantana
-#  position: UAV
-#  social:
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/kevin-santana-7a8211217/
-
-- name: César Quintuña
-  pic: cesarQuintuña
-  position: UAV
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
-
 - name: Náger Naranjo
   pic: nagerNaranjo
   position: Manipulator Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-
-#- name: Jonathan Zavala
-#  pic: jonathanZavala
-#  position: UAV
-#  social:
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/jonathan-zavala-%C3%A1vila-28b0b6210/
-
-- name: Iesus Dávila
-  pic: iesusDavila
-  position: Robots Design 
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
-    - title: github
-      url: https://github.com/iesusdavila
-    # - title: instagram
-    #   url: https://www.instagram.com/iesusdavilaa/
 
 - name: Carlos González
   pic: carlosGonzalez
@@ -82,76 +50,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
 
-- name: Luis Arroba
-  pic: luisArroba
-  position: UAV
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/luis-mario-arroba-v%C3%A1squez-744974210/
-
-- name: Favia Elizalde
-  pic: faviaElizalde
-  position: UAV
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/favia-elizalde-aristeguieta
-
-#- name: Oscar Yturralde
-#  pic: oscarYturralde
-#  position: UAV
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/oscar-yturralde-villegas-a50156216/
-
-#- name: Anthony López
-#  pic: anthonyLopez
-#  position: Manipulator Design
-#  social:
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/anthony-l%C3%B3pez-uquillas-360208210
-
-
-#- name: Aarón Villacis
-#  pic: aaronVillacis
-#  position: Soft Robotics
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/aaroneduardovillacisarroyave/
-
-#- name: Alanis Menéndez
-#  pic: alanisMenendez
-#  position: Soft Robotics
-#  social:
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/alanis-men%C3%A9ndez-san-lucas-2a703b210
-
-- name: Andrew Tomalá
-  pic: andrewTomala
-  position: Soft Robotics
-  social: 
-  - title: linkedin
-    url: https://www.linkedin.com/in/andrew-tomal%C3%A1-zapata-238989277/
-
 - name: Martín Mendoza
   pic: martinMendoza
   position: Robots Design
   social: 
   - title: linkedin
     url: https://www.linkedin.com/in/martin-mendoza-mansilla/
-
-- name: Robinson Jacome
-  pic: robinsonJacome
-  position: Robots Design
-  social: 
-  - title: linkedin
-    url: https://www.linkedin.com/in/robinson-jacome-32a1a4184?trk=contact-info
-
-#- name: Daniel Paladines
-#  pic: danielPaladines
-#  position: Robots Programmer
-#  social: 
-#    - title: linkedin
-#      url: #
 
 - name: Camila Reyes
   pic: camilaReyes
@@ -167,26 +71,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
-#- name: Génesis Vargas
-#  pic: genesisVargas
-#  position: Research Assistants
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/g%C3%A9nesis-dayanna-vargas-isa-653554222/
-
-#- name: Luis Campos
-#  pic: luisCampos
-#  position: Submersible Robots
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
-
-# - name: Edison Egas
-#   pic: edisonEgas
-#   position: Robots Design
-#   social: 
-#     - title: linkedin
-#       url: https://www.linkedin.com/in/edison-egas-52912b224/
 
 - name: Sergio Balcázar
   pic: sergioBalcazar
@@ -208,27 +92,6 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-      
-#- name: Johan Gutiérrez
-#  pic: johanGutierrez
-#  position: Robots Design
-#  social: 
-#    - title: linkedin
-#      url: https://www.linkedin.com/in/johan-ricardo-guti%C3%A9rrez-mac%C3%ADas-428818218/
-
-#- name: Andrius Jaya
-#  pic: andriusJaya
-#  position: Robots Design
-#  social: 
-#    - title: linkedin
-#      url: #
-
-#- name: Jorge Zapata
-#  pic: jorgeZapata
-#  position: Robots Design
-#  social: 
-#    - title: linkedin
-#      url: #
 
 - name: Melissa Barberán
   pic: melissaBarberan
@@ -274,6 +137,13 @@ alumni:
   - title: linkedin
     url: https://www.linkedin.com/in/jose-antonio-mor%C3%A1n-rodriguez/
 
+- name: Hugo Aviles 
+  pic: hugoAviles
+  position: 2022II
+  social: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/hugmavil/
+
 - name: Juan Sanchez
   pic: juan
   position: 2022II
@@ -288,13 +158,6 @@ alumni:
   - title: linkedin
     url: https://www.linkedin.com/in/sof%C3%ADa-espa%C3%B1a-71743b1b6/
 
-- name: Hugo Aviles 
-  pic: hugoAviles
-  position: 2022II
-  social: 
-  - title: linkedin
-    url: https://www.linkedin.com/in/hugmavil/
-
 - name: Luis Andrade
   pic: luis
   position: 2023I
@@ -308,13 +171,6 @@ alumni:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/javier-pagalo
-      
-- name: Diego Ronquillo
-  pic: diegoRonquillo
-  position: 2023I
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
 
 - name: Cristobal Lara
   pic: cristobalLara
@@ -330,12 +186,56 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/in/anthonnypiguave/
 
+- name: Diego Ronquillo
+  pic: diegoRonquillo
+  position: 2023I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
+
 - name: José Landívar
   pic: joseLandivar
   position: 2023II
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jlandivar
+
+- name: César Quintuña
+  pic: cesarQuintuña
+  position: 2024I
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/cesar-quintu%C3%B1a/
+
+- name: Iesus Dávila
+  pic: iesusDavila
+  position: 2024I
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
+    - title: github
+      url: https://github.com/iesusdavila
+      
+- name: Luis Arroba
+  pic: luisArroba
+  position: 2024I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/luis-mario-arroba-v%C3%A1squez-744974210/
+
+- name: Favia Elizalde
+  pic: faviaElizalde
+  position: 2024I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/favia-elizalde-aristeguieta
+      
+#- name: Jorge Zapata
+#  pic: jorgeZapata
+#  position: Robots Design
+#  social: 
+#    - title: linkedin
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
