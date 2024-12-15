@@ -181,12 +181,12 @@ people:
 #    - title: linkedin
 #      url: https://www.linkedin.com/in/luis-hern%C3%A1n-campos-guzm%C3%A1n-30b14421b
 
-- name: Edison Egas
-  pic: edisonEgas
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/edison-egas-52912b224/
+# - name: Edison Egas
+#   pic: edisonEgas
+#   position: Robots Design
+#   social: 
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/edison-egas-52912b224/
 
 - name: Sergio Balcázar
   pic: sergioBalcazar
@@ -273,6 +273,13 @@ alumni:
   social:
   - title: linkedin
     url: https://www.linkedin.com/in/jose-antonio-mor%C3%A1n-rodriguez/
+
+- name: Juan Sanchez
+  pic: juan
+  position: 2022II
+  social: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/juasesan/
 
 - name: Sofía España
   pic: sofiaEspana
