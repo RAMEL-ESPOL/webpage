@@ -8,7 +8,7 @@ title: RAMEL
 email: fryumbla@espol.edu.ec
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-# Team names, titles and social links11
+# Team names, titles and social links
 people:
 
 - name: César Aulestia
@@ -92,6 +92,13 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+- name: Erick Mendoza
+  pic: erickMendoza
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/erick-mendoza-macias
 
 - name: Melissa Barberán
   pic: melissaBarberan
