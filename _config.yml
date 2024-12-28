@@ -184,14 +184,7 @@ alumni:
   position: 2023I
   social: 
     - title: linkedin
-      url: https://www.linkedin.com/in/crist%C3%B3bal-lara-3a7ba91b3
-      
-- name: Anthonny Piguave
-  pic: anthonnyPiguave
-  position: 2023I
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/anthonnypiguave/
+      url: https://www.linkedin.com/in/crist%C3%B3bal-lara-3a7ba91b3    
 
 - name: Diego Ronquillo
   pic: diegoRonquillo
@@ -234,6 +227,13 @@ alumni:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/favia-elizalde-aristeguieta
+
+- name: Anthonny Piguave
+  pic: anthonnyPiguave
+  position: 2023I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/anthonnypiguave/
       
 #- name: Jorge Zapata
 #  pic: jorgeZapata
