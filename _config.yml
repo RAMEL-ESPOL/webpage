@@ -92,14 +92,14 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+"""
 - name: Erick Mendoza
   pic: erickMendoza
   position: Robots Design
   social: 
     - title: linkedin
       url: http://www.linkedin.com/in/erick-mendoza-macias
-
+"""
 - name: Melissa Barberán
   pic: melissaBarberan
   position: Research Assistant
