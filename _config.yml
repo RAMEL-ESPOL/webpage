@@ -36,20 +36,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
 
-- name: Daniela Cueva
-  pic: danielaCueva
-  position: Soft Robotic
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/daniela-cueva-jim%C3%A9nez-583348216
-
-- name: Ramses García
-  pic: ramsesGarcia
-  position: Soft Robotic
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ramses-ian-garcia-galarza-514b851b6
-
 - name: Martín Mendoza
   pic: martinMendoza
   position: Robots Design
@@ -71,13 +57,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
 
-
-- name: Sergio Balcázar
-  pic: sergioBalcazar
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
 
 - name: Isaac León
   pic: isaacLeon
@@ -193,6 +172,13 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/in/diego-ronquillo-a7b145175
 
+- name: Anthonny Piguave
+  pic: anthonnyPiguave
+  position: 2023I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/anthonnypiguave/
+
 - name: José Landívar
   pic: joseLandivar
   position: 2023II
@@ -228,19 +214,20 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
 
-- name: Anthonny Piguave
-  pic: anthonnyPiguave
-  position: 2023I
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/anthonnypiguave/
-      
-#- name: Jorge Zapata
-#  pic: jorgeZapata
-#  position: Robots Design
-#  social: 
+# - name: Jorge Zapata
+#   pic: jorgeZapata
+#   position: 2024I
+#   social: 
 #    - title: linkedin
 #      url: #
+
+- name: Sergio Balcázar
+  pic: sergioBalcazar
+  position: 2024I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
