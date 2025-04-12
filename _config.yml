@@ -11,37 +11,12 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 
-- name: César Aulestia
-  pic: cesarAulestia
-  position: Quadruped Design
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/c%C3%A9sar-alexander-aulestia-tena-089196264/
-    - title: github
-      url: https://github.com/caulesti
-    # - title: instagram
-    #   url: https://www.instagram.com/aulestia82/
-
 - name: Náger Naranjo
   pic: nagerNaranjo
   position: Manipulator Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-
-- name: Carlos González
-  pic: carlosGonzalez
-  position: Manipulator Design
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
-
-- name: Martín Mendoza
-  pic: martinMendoza
-  position: Robots Design
-  social: 
-  - title: linkedin
-    url: https://www.linkedin.com/in/martin-mendoza-mansilla/
 
 - name: Camila Reyes
   pic: camilaReyes
@@ -50,34 +25,12 @@ people:
     - title: linkedin
       url: #
 
-- name: Julio Dender
-  pic: julioDender
-  position: Quadruped Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
-
-
 - name: Isaac León
   pic: isaacLeon
   position: Robots Design
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-
-- name: Juan Saeteros
-  pic: juanSaeteros
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-- name: Erick Mendoza
-  pic: erickMendoza
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: http://www.linkedin.com/in/erick-mendoza-macias
 
 - name: Melissa Barberán
   pic: melissaBarberan
@@ -99,6 +52,9 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/ivan-baldeon-baque-49035a2b4/
+
+
+
 
 # Alumni names, titles and social links
 alumni:
@@ -228,6 +184,50 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/in/sergio-javier-balc%C3%A1zar-mart%C3%ADnez-55a961224/
 
+- name: César Aulestia
+  pic: cesarAulestia
+  position: 2024II
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/c%C3%A9sar-alexander-aulestia-tena-089196264/
+    - title: github
+      url: https://github.com/caulesti
+    # - title: instagram
+    #   url: https://www.instagram.com/aulestia82/
+- name: Carlos González
+  pic: carlosGonzalez
+  position: 2024II
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/carlos-gonzalez-40237b17b/
+
+- name: Martín Mendoza
+  pic: martinMendoza
+  position: 2024II
+  social: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/martin-mendoza-mansilla/
+
+- name: Julio Dender
+  pic: julioDender
+  position: 2024II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/julio-c%C3%A9sar-dender-aguilar-03778425b/
+
+- name: Juan Saeteros
+  pic: juanSaeteros
+  position: 2024II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/juan-marcos-saeteros-macias-b8a862231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+- name: Erick Mendoza
+  pic: erickMendoza
+  position: 2024II
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/erick-mendoza-macias
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
