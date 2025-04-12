@@ -177,12 +177,12 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/in/favia-elizalde-aristeguieta
 
-# - name: Jorge Zapata
-#   pic: jorgeZapata
-#   position: 2024I
-#   social: 
-#    - title: linkedin
-#      url: #
+- name: Jorge Zapata
+  pic: jorgeZapata
+  position: 2024I
+  social: 
+   - title: linkedin
+     url: #
 
 - name: Sergio Balcázar
   pic: sergioBalcazar
