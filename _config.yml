@@ -18,26 +18,26 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
 
+- name: Ing. Camila Reyes
+  pic: camilaReyes
+  position: Maestrante - Robots Programmer
+  social: 
+    - title: linkedin
+      url: #
+
+- name: Ing. Isaac León
+  pic: isaacLeon
+  position: Maestrante - Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 - name: Náger Naranjo
   pic: nagerNaranjo
   position: Manipulator Design
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-
-- name: Camila Reyes
-  pic: camilaReyes
-  position: Robots Programmer
-  social: 
-    - title: linkedin
-      url: #
-
-- name: Isaac León
-  pic: isaacLeon
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 - name: Melissa Barberán
   pic: melissaBarberan
