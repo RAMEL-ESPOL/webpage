@@ -13,7 +13,7 @@ people:
 
 - name: Ing. Iesus Dávila
   pic: iesusDavila
-  position: Técnico de Investigacion CEDIA
+  position: Técnico de Investigación CEDIA
   social:
     - title: linkedin
       url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
@@ -23,7 +23,7 @@ people:
   position: Maestrante - Robots Programmer
   social: 
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/camila-dom%C3%A9nica-reyes-vera-3b9aa8298/
 
 - name: Ing. Isaac León
   pic: isaacLeon
@@ -41,26 +41,52 @@ people:
 
 - name: Melissa Barberán
   pic: melissaBarberan
-  position: Research Assistant
+  position: Robots Design
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
 - name: Newton Toledo
   pic: newtonToledo
-  position: Research Assistant
+  position: Computer Vision
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
 
 - name: Ivan Baldeon
   pic: ivanBaldeon
-  position: Research Assistant
+  position: Robots Design
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/ivan-baldeon-baque-49035a2b4/
 
+- name: Arturo Carrera
+  pic: arturoCarrera
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/arturo-carrera-943873221
 
+- name: Pablo Lara
+  pic: pabloLara
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/pablo-lara-p/
+
+- name: Lorelene Serrano
+  pic: loreleneSerrano
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/lorelene-serrano-395ba2277/
+
+- name: Eliezer Acebo
+  pic: eliezerAcebo
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/eliezer-andr%C3%A9s-acebo-mota-321008363
 
 
 # Alumni names, titles and social links
