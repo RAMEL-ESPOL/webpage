@@ -69,6 +69,27 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ivan-baldeon-baque-49035a2b4/
 
+- name: Jean Thomé
+  pic: jeanThome
+  position: Robots Programmer
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jean-carlos-thom%C3%A9-morales-20956327a/
+
+- name: Iván Cabrera
+  pic: ivanCabrera
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/iv%C3%A1n-cabrera-a1299b221/
+
+- name: Douglas Gonzabay
+  pic: douglasGonzabay
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/douglas-gonzabay-esp%C3%ADn-b2295420a/
+
 - name: Arturo Carrera
   pic: arturoCarrera
   position: Research Assistant
