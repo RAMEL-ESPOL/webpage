@@ -83,12 +83,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/iv%C3%A1n-cabrera-a1299b221/
 
-- name: Douglas Gonzabay
-  pic: douglasGonzabay
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/douglas-gonzabay-esp%C3%ADn-b2295420a/
+
 
 - name: Arturo Carrera
   pic: arturoCarrera
@@ -96,6 +91,13 @@ people:
   social: 
     - title: linkedin
       url: http://www.linkedin.com/in/arturo-carrera-943873221
+
+- name: Douglas Gonzabay
+  pic: douglasGonzabay
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/douglas-gonzabay-esp%C3%ADn-b2295420a/
 
 - name: Ing. Camila Reyes
   pic: camilaReyes
