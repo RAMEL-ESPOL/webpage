@@ -83,7 +83,47 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/iv%C3%A1n-cabrera-a1299b221/
 
+- name: Luis Santamaría
+  pic: luisSantamaria
+  position: Artificial Intelligence
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/luissantamaria2
 
+- name: Angelo Espinoza
+  pic: angeloEspinoza
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/angelo-espinoza-pinela-bb3761238/
+
+- name: Daniel Pallazhco
+  pic: danielPallazhco
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/danielpallazhco
+
+- name: Kruger Ronquillo
+  pic: krugerRonquillo
+  position: Computer Vision
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/kruger-ronquillo-coloma-242019340/
+
+- name: Jorge Pluas
+  pic: jorgePluas
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jorge01pluas/
+
+- name: Bryan Briones
+  pic: bryanBriones
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/bryan-carlos-briones-garcia-836358264
 
 - name: Arturo Carrera
   pic: arturoCarrera
