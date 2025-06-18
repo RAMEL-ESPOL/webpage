@@ -139,6 +139,36 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/douglas-gonzabay-esp%C3%ADn-b2295420a/
 
+- name: Joel Veloz
+  pic: joelVeloz
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/joelveloz/
+
+- name: Steven Cisneros
+  pic: stevenCisneros
+  position: Manipulator Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/steven-cisneros-vill%C3%B3n-0210b8210/
+
+- name: Luis Córdova
+  pic: luisCordova
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/luis-felipe-c%C3%B3rdova-flores-014486224/
+
+- name: Johnny Mejía
+  pic: johnnyMejia
+  position: Soft Robotics
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/johnny-mej%C3%ADa-70a599285/
+
+
+
 - name: Ing. Camila Reyes
   pic: camilaReyes
   position: Maestrante - Robots Programmer
