@@ -47,20 +47,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/jean-carlos-thom%C3%A9-morales-20956327a/
 
-- name: Luis Santamaría
-  pic: luisSantamaria
-  position: Artificial Intelligence
-  social: 
-    - title: linkedin
-      url: http://www.linkedin.com/in/luissantamaria2
-
-- name: Angelo Espinoza
-  pic: angeloEspinoza
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/angelo-espinoza-pinela-bb3761238/
-
 - name: Daniel Pallazhco
   pic: danielPallazhco
   position: Unmanned Systems
@@ -96,15 +82,6 @@ people:
     - title: linkedin
       url: http://www.linkedin.com/in/arturo-carrera-943873221
 
-
-
-
-- name: Luis Córdova
-  pic: luisCordova
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/luis-felipe-c%C3%B3rdova-flores-014486224/
 
 
 
