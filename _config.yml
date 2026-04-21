@@ -11,22 +11,6 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 
-- name: Ing. Iesus Dávila
-  pic: iesusDavila
-  position: Investigador - CEDIA
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/mwlite/in/iesus-davila-aguilar-3054b61b0
-
-
-
-- name: Náger Naranjo
-  pic: nagerNaranjo
-  position: Manipulator Design
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/n%C3%A1ger-rafael-naranjo-molina-b35a06231/
-
 - name: Melissa Barberán
   pic: melissaBarberan
   position: Robots Design
@@ -41,19 +25,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
 
-- name: Pablo Lara
-  pic: pabloLara
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/pablo-lara-p/
-
-- name: Lorelene Serrano
-  pic: loreleneSerrano
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/lorelene-serrano-395ba2277/
 
 - name: Eliezer Acebo
   pic: eliezerAcebo
@@ -75,13 +46,6 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/jean-carlos-thom%C3%A9-morales-20956327a/
-
-- name: Iván Cabrera
-  pic: ivanCabrera
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/iv%C3%A1n-cabrera-a1299b221/
 
 - name: Luis Santamaría
   pic: luisSantamaria
@@ -132,26 +96,8 @@ people:
     - title: linkedin
       url: http://www.linkedin.com/in/arturo-carrera-943873221
 
-- name: Douglas Gonzabay
-  pic: douglasGonzabay
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/douglas-gonzabay-esp%C3%ADn-b2295420a/
 
-- name: Joel Veloz
-  pic: joelVeloz
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/joelveloz/
 
-- name: Steven Cisneros
-  pic: stevenCisneros
-  position: Manipulator Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/steven-cisneros-vill%C3%B3n-0210b8210/
 
 - name: Luis Córdova
   pic: luisCordova
@@ -160,28 +106,8 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/luis-felipe-c%C3%B3rdova-flores-014486224/
 
-- name: Johnny Mejía
-  pic: johnnyMejia
-  position: Soft Robotics
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/johnny-mej%C3%ADa-70a599285/
 
 
-
-- name: Ing. Camila Reyes
-  pic: camilaReyes
-  position: Maestrante - Robots Programmer
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/camila-dom%C3%A9nica-reyes-vera-3b9aa8298/
-
-- name: Ing. Isaac León
-  pic: isaacLeon
-  position: Maestrante - Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 # Alumni names, titles and social links
 alumni:
@@ -358,6 +284,40 @@ alumni:
     - title: linkedin
       url: http://www.linkedin.com/in/erick-mendoza-macias
 
+- name: Camila Reyes
+  pic: camilaReyes
+  position: 2024II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/camila-dom%C3%A9nica-reyes-vera-3b9aa8298/
+
+- name: Isaac León
+  pic: isaacLeon
+  position: 2024II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/isaac-león-valdivieso-02a8662a2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+- name: Daniel Mejía
+  pic: johnnyMejia
+  position: 2025I
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/johnny-mej%C3%ADa-70a599285/
+
+- name: Joel Veloz
+  pic: 2025II
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/joelveloz/
+
+- name: Pablo Lara
+  pic: pabloLara
+  position: 2025II
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/pablo-lara-p/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
