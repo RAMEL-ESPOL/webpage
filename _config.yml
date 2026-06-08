@@ -11,13 +11,6 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 
-- name: Melissa Barberán
-  pic: melissaBarberan
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
-
 - name: Newton Toledo
   pic: newtonToledo
   position: Computer Vision
@@ -117,6 +110,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/kruger-ronquillo-coloma-242019340/
 
+- name: Melissa Barberán
+  pic: melissaBarberan
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
 
 
