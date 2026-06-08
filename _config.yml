@@ -117,6 +117,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
+- name: Cristian Orozco
+  pic: cristianOrozco
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/cristian-orozco1/
 
 
 
@@ -317,8 +323,8 @@ alumni:
       url: https://www.linkedin.com/in/johnny-mej%C3%ADa-70a599285/
 
 - name: Joel Veloz
-  pic: 2025II
-  position: Unmanned Systems
+  pic: joelVeloz
+  position: 2025II
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/joelveloz/
