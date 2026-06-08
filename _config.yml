@@ -82,6 +82,41 @@ people:
     - title: linkedin
       url: http://www.linkedin.com/in/arturo-carrera-943873221
 
+- name: Emilio Riofrio
+  pic: emilioRiofrio
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/emilio-riofrio-940b02238/
+
+- name: Patricio Vasquez
+  pic: patricioVasquez
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/patricio-v%C3%A1squez-villarreal-1b6861239/
+
+- name: Roberto Estrada
+  pic: robertoEstrada
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/roberto-estrada-18b757312/
+
+- name: Juan Espinoza
+  pic: juanEspinoza
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/juan-carlos-espinoza-bowen-8327363a6/
+
+- name: Domenica Santamaria
+  pic: domenicaSantamaria
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/domenica-santamaria/
+
 
 
 
