@@ -2,7 +2,7 @@
 title: Cable Manipulator
 subtitle: Robotic Manipulators
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2020-05-28
 img: cManipulator.png
 thumbnail: cManipulator-thumbnail.png
