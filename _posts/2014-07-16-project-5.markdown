@@ -2,7 +2,7 @@
 title: Quadruped
 subtitle: Robot Design
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2020-05-28
 img: quadruped.png
 thumbnail: quadruped-thumbnail.png

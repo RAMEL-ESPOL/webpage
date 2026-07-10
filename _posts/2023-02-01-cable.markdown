@@ -2,7 +2,7 @@
 title: Computer Vision
 subtitle: Artificial Intelligence
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2023-02-01
 img: ccRecognition.png
 thumbnail: ccRecognition-thumbnail.png
