@@ -3,7 +3,7 @@ title: Social Robot
 subtitle: Robots Design
 layout: default
 modal-id: 0
-date: 2023-02-01
+date: 2026-01-01
 img: yaren.png
 thumbnail: yaren-thumbnail.png
 video: https://www.youtube.com/embed/7UP7OqsaPMk
