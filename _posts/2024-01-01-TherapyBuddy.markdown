@@ -1,7 +1,7 @@
 ---
 modal-id: 0
 title: TherapyBuddy
-subtitle: Social Robot
+subtitle: Robot Design
 layout: default
 date: 2024-01-01
 thumbnail: therapybuddy-thumbnail.png
