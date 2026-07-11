@@ -5,7 +5,7 @@ subtitle: Unmanned Systems
 layout: default
 date: 2023-01-01
 thumbnail: IndustrialRobot-thumbnail.png
-img: yaren.png
+img: IndustrialRobot.jpg
 img2:
 video1: https://www.youtube.com/embed/4Oxv1RwLZYU?si=kH0PGtz2XDKqAW8S
 video2: 
