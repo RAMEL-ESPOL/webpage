@@ -1,9 +1,9 @@
 ---
-modal-id: 0
+modal-id: 10
 title: Autonomous Robot Navigation
 subtitle: Unmanned Systems
 layout: default
-date: 2026-01-01
+date: 2022-01-01
 thumbnail: ASD-thumbnail.jpg
 img: yaren.png
 video1: 
