@@ -23,15 +23,14 @@
                         <!-- links -->
                         <ul class="list-inline item-details">
                             <li>Client:
-                                <strong><a href="https://startbootstrap.com">{{ post.client }}</a>
+                                <strong><a href="{{ post.link-client }}">{{ post.client }}</a>
                                 </strong>
                             </li>
                             <li>Date:
-                                <strong><a href="https://startbootstrap.com">{{ post.project-date }}</a>
-                                </strong>
+                                <strong>{{ post.project-date }}</strong>
                             </li>
                             <li>Information:
-                                <strong><a href="{{ post.link }}">{{ post.category }}</a>
+                                <strong><a href="{{ post.link-github }}">{{ post.category }}</a>
                                 </strong>
                             </li>
                         </ul>
