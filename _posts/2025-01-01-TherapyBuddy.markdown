@@ -3,12 +3,12 @@ modal-id: 0
 title: TherapyBuddy
 subtitle: Social Robot
 layout: default
-date: 2026-01-01
+date: 2025-01-01
 img: yaren.png
 thumbnail: yaren-thumbnail.png
 video: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
 alt: image-alt
-project-date: 2026
+project-date: 2025-2026
 client: SOLCA
 category: Github
 link-github: 
