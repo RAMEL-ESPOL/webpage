@@ -4,7 +4,7 @@ title: Autonomous Robot Navigation
 subtitle: Unmanned Systems
 layout: default
 date: 2022-01-01
-thumbnail: ASD-thumbnail.jpg
+thumbnail: ARN-thumbnail.png
 img: yaren.png
 video1: 
 video2: 
