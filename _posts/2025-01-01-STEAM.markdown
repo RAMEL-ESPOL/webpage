@@ -5,7 +5,7 @@ subtitle: Robots Design
 layout: default
 date: 2025-01-01
 thumbnail: steam-thumbnail.png
-img: steam.jpg
+img: steam1.jpg
 img2:
 video1: 
 video2: 
