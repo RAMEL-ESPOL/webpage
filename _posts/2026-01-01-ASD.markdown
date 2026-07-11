@@ -4,8 +4,8 @@ title: Autism Spectrum Disorder
 subtitle: Social Robot
 layout: default
 date: 2026-01-01
+thumbnail: ASD-thumbnail.jpg
 img: yaren.png
-thumbnail: yaren-thumbnail.png
 video1: 
 video2: 
 alt: image-alt

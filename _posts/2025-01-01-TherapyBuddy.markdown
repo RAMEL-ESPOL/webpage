@@ -4,8 +4,8 @@ title: TherapyBuddy
 subtitle: Social Robot
 layout: default
 date: 2025-01-01
-img: yaren.png
 thumbnail: yaren-thumbnail.png
+img: yaren.png
 video: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
 alt: image-alt
 project-date: 2025-2026
