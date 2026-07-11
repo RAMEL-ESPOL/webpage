@@ -5,7 +5,8 @@ subtitle: Robot Design
 layout: default
 date: 2024-01-01
 thumbnail: therapybuddy-thumbnail.png
-img: yaren.png
+img: therapybuddy1.png
+img2: therapybuddy2.png
 video1: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
 video2: https://www.youtube.com/embed/7UP7OqsaPMk
 alt: image-alt

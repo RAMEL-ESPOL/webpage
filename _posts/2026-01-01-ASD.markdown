@@ -5,15 +5,15 @@ subtitle: Robots Design
 layout: default
 date: 2026-01-01
 thumbnail: ASD-thumbnail.jpg
-img: yaren.png
+img: ASD1.png
 video1: 
 video2: 
 alt: image-alt
-project-date: 2026-2028
+project-date: 2025-2028
 client: SOLCA
 category: Github
 link-github: 
 link-client: https://www.solca.med.ec/
-description: En este proyecto lo que se busca es desarrollar plataformas para nisnos con desorde de autismo.
+description: Moodie is an interactive robot specifically designed to support communication and provide emotional assistance for children with Autism Spectrum Disorder (ASD). Its development stems from the need to provide an accessible, user-friendly, and easy-to-use tool that enables children to express their needs through physical pictograms while facilitating the interpretation of their emotional state using computer vision and artificial intelligence techniques. .
 
 ---

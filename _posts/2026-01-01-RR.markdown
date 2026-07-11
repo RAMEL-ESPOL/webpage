@@ -1,19 +1,18 @@
 ---
 modal-id: 12
 title: Rehabilitation Robotics
-subtitle: Robots Design
+subtitle: Robotic Manipulators
 layout: default
 date: 2026-01-01
 thumbnail: RR-thumbnail.png
-img: yaren.png
+img: RR1.png
 video1: 
 video2: 
 alt: image-alt
 project-date: 2026-2028
-client: SOLCA
+client: 
 category: Github
 link-github: 
-link-client: https://www.solca.med.ec/
-description: En este proyecto lo que se busca es desarrollar plataformas para nisnos con desorde de autismo.
-
+link-client: 
+description: PETRA (Pedestal Exoskeletal Testbed with Real-time Architecture), an open-source, 3-degree-of-freedom kinematic validation testbed manufactured in PETG for upper limb rehabilitation research at a cost under 25 USD per joint.
 ---
