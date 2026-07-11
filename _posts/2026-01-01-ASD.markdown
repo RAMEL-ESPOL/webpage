@@ -9,7 +9,7 @@ img: yaren.png
 video1: 
 video2: 
 alt: image-alt
-project-date: 2026-2027
+project-date: 2026-2028
 client: SOLCA
 category: Github
 link-github: 

@@ -6,9 +6,10 @@ layout: default
 date: 2025-01-01
 thumbnail: therapybuddy-thumbnail.png
 img: yaren.png
-video: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
+video1: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
+video2: https://www.youtube.com/embed/7UP7OqsaPMk
 alt: image-alt
-project-date: 2025-2026
+project-date: 2023-2026
 client: SOLCA
 category: Github
 link-github: 
