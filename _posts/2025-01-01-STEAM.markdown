@@ -1,0 +1,19 @@
+---
+modal-id: 0
+title: STEAM ROBOTS
+subtitle: Educational Robot
+layout: default
+date: 2025-01-01
+thumbnail: steam-thumbnail.png
+img: yaren.png
+video1: 
+video2: 
+alt: image-alt
+project-date: 2026-2028
+client: SOLCA
+category: Github
+link-github: 
+link-client: https://www.solca.med.ec/
+description: En este proyecto lo que se busca es desarrollar plataformas para nisnos con desorde de autismo.
+
+---
