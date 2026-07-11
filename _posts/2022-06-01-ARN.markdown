@@ -1,6 +1,6 @@
 ---
 modal-id: 7
-title: Autonomous Robot Navigation
+title: Autonomous Robot
 subtitle: Unmanned Systems
 layout: default
 date: 2022-06-01

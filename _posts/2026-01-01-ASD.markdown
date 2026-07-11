@@ -1,6 +1,6 @@
 ---
 modal-id: 11
-title: Autism Spectrum Disorder
+title: Autism Spectrum
 subtitle: Robots Design
 layout: default
 date: 2026-01-01
