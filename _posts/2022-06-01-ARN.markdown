@@ -3,7 +3,7 @@ modal-id: 7
 title: Autonomous Robot Navigation
 subtitle: Unmanned Systems
 layout: default
-date: 2022-01-01
+date: 2022-06-01
 thumbnail: ARN-thumbnail.png
 img: yaren.png
 video1: 
