@@ -6,7 +6,7 @@ layout: default
 date: 2026-01-01
 img: yaren.png
 thumbnail: yaren-thumbnail.png
-video: https://youtu.be/mrMn2j20bUE
+video: https://www.youtube.com/embed/mrMn2j20bUE?si=EI1KfNdN7UOiSeix
 alt: image-alt
 project-date: 2026
 client: SOLCA
