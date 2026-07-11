@@ -6,6 +6,7 @@ layout: default
 date: 2022-06-01
 thumbnail: ARN-thumbnail.png
 img: yaren.png
+img2:
 video1: 
 video2: 
 alt: image-alt

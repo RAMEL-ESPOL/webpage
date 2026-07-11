@@ -6,6 +6,7 @@ layout: default
 date: 2026-01-01
 thumbnail: ASD-thumbnail.jpg
 img: ASD1.png
+img2:
 video1: 
 video2: 
 alt: image-alt
