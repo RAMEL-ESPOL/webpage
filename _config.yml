@@ -124,6 +124,37 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/cristian-orozco1/
 
+- name: Renzo Fernandez
+  pic: renzoFernandez
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/renzo-daniel-fern%C3%A1ndez-chac%C3%B3n-952893195/
+
+
+- name: Gerardo Pozo
+  pic: gerardoPozo
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/gerardo-pozo-016360261/
+
+
+- name: Austin Estrella
+  pic: austinEstrella
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/austin-estrella-0a95b5215/
+
+
+- name: Jhony Choez
+  pic: jhonyChoez
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jhony-choez-766a9834b/      
+
 
 
 # Alumni names, titles and social links
