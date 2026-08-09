@@ -2084,16 +2084,3 @@
 .fa-percent:before {
   content: "\f295";
 }
-
-.team-member {
-    min-height: 380px; /* Asegura una altura uniforme para todas las tarjetas */
-    position: relative;
-    padding-bottom: 50px; /* Deja espacio para el botón social */
-}
-
-.team-member .social-buttons {
-    position: absolute;
-    bottom: 15px;
-    left: 0;
-    right: 0;
-}
