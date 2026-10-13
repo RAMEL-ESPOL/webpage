@@ -39,20 +39,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/jhony-choez-766a9834b/      
 
-- name: Newton Toledo
-  pic: newtonToledo
-  position: Computer Vision
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
-
-- name: Eliezer Acebo
-  pic: eliezerAcebo
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: http://www.linkedin.com/in/eliezer-andr%C3%A9s-acebo-mota-321008363
-
 - name: Ivan Baldeon
   pic: ivanBaldeon
   position: Research Assistant
@@ -67,26 +53,12 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/jean-carlos-thom%C3%A9-morales-20956327a/
 
-- name: Daniel Pallazhco
-  pic: danielPallazhco
-  position: Unmanned Systems
+- name: Patricio Vasquez
+  pic: patricioVasquez
+  position: Research Assistant
   social: 
     - title: linkedin
-      url: http://www.linkedin.com/in/danielpallazhco
-
-- name: Jorge Pluas
-  pic: jorgePluas
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/jorge01pluas/
-
-- name: Bryan Briones
-  pic: bryanBriones
-  position: Unmanned Systems
-  social: 
-    - title: linkedin
-      url: http://www.linkedin.com/in/bryan-carlos-briones-garcia-836358264
+      url: https://www.linkedin.com/in/patricio-v%C3%A1squez-villarreal-1b6861239/
 
 - name: Arturo Carrera
   pic: arturoCarrera
@@ -102,19 +74,19 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/emilio-riofrio-940b02238/
 
-- name: Patricio Vasquez
-  pic: patricioVasquez
-  position: Research Assistant
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/patricio-v%C3%A1squez-villarreal-1b6861239/
-
 - name: Roberto Estrada
   pic: robertoEstrada
   position: Research Assistant
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/roberto-estrada-18b757312/
+
+- name: Melissa Barberán
+  pic: melissaBarberan
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
 
 - name: Juan Espinoza
   pic: juanEspinoza
@@ -129,27 +101,6 @@ people:
   social: 
     - title: linkedin
       url: https://www.linkedin.com/in/domenica-santamaria/
-
-- name: Kruger Ronquillo
-  pic: krugerRonquillo
-  position: Computer Vision
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/kruger-ronquillo-coloma-242019340/
-
-- name: Melissa Barberán
-  pic: melissaBarberan
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/melissa-barber%C3%A1n-gallardo-bb8248221/
-
-- name: Cristian Orozco
-  pic: cristianOrozco
-  position: Robots Design
-  social: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/cristian-orozco1/
 
 # Alumni names, titles and social links
 alumni:
@@ -361,7 +312,48 @@ alumni:
     - title: linkedin
       url: https://www.linkedin.com/in/pablo-lara-p/
 
+- name: Daniel Pallazhco
+  pic: danielPallazhco
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/danielpallazhco
 
+- name: Bryan Briones
+  pic: bryanBriones
+  position: Unmanned Systems
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/bryan-carlos-briones-garcia-836358264
+
+- name: Eliezer Acebo
+  pic: eliezerAcebo
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: http://www.linkedin.com/in/eliezer-andr%C3%A9s-acebo-mota-321008363
+      
+- name: Newton Toledo
+  pic: newtonToledo
+  position: Computer Vision
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/newton-toledo-barreto-686447221/
+
+- name: Kruger Ronquillo
+  pic: krugerRonquillo
+  position: Computer Vision
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/kruger-ronquillo-coloma-242019340/
+
+- name: Cristian Orozco
+  pic: cristianOrozco
+  position: Robots Design
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/cristian-orozco1/
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
