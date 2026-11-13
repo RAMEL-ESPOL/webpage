@@ -102,6 +102,42 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/domenica-santamaria/
 
+- name: Jennifer Martinez
+  pic: jenniferMartinez
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/jennifer-martínez-méndez-b59290286?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- name: Gerson Castro
+  pic: gersonCastro
+  position: Research Assistant
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/gerson-castro-muñoz-b36595313?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+- name: Juan Lainez
+  pic: juanLainez
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/juanlainez25?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- name: Andres Garcia
+  pic: andresGarcia
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/andres-garcia-zambrano-6a36b6227?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+  
+- name: Gabriela Zuñiga
+  pic: gabrielaZuniga
+  position: Research Assistant
+  social: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/gza7ba04a277/?isSelfProfile=true
+
+
 # Alumni names, titles and social links
 alumni:
 - name: Yandri Uchuari
